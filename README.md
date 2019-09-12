@@ -3,7 +3,7 @@ Este repositorio contiene el material relacionado con el taller (workshop) de "S
 Además de los Jupyter Notebooks que se encuentran en este repositorio, se utilizarán unas diapositivas en Google Slides (https://docs.google.com/presentation/d/1Ps63of3KEXU8c249WGadP9ogFhhrp0_pPZq6AJTcUj4/edit?usp=sharing) para presentar varios conceptos y fórmulas.
 
 # Datos
-Los datos que se utilizaron para este taller son de la base de datos MovieLens (https://grouplens.org/datasets/movielens/).
+Los datos que se utilizaron para este taller originan de la base de datos MovieLens (https://grouplens.org/datasets/movielens/).
 
 # Instrucciones para estudiantes
 
