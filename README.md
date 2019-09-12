@@ -2,6 +2,9 @@
 Este repositorio contiene el material relacionado con el taller (workshop) de "Sistemas de Recomendaciones" dentro de la RIIAA '19. El taller se enfocará en entender la importancia de los sistemas de recomendaciones, la formulación del problema de predicción, y las técnicas más importantes del área. También se explorarán algunos temas de investigación de este área.
 Además de los Jupyter Notebooks que se encuentran en este repositorio, se utilizarán unas diapositivas en Google Slides (https://docs.google.com/presentation/d/1Ps63of3KEXU8c249WGadP9ogFhhrp0_pPZq6AJTcUj4/edit?usp=sharing) para presentar varios conceptos y fórmulas.
 
+# Datos
+Los datos que se utilizaron para este taller son de la base de datos MovieLens (https://grouplens.org/datasets/movielens/).
+
 # Instrucciones para estudiantes
 
 La mayoría de las prácticas de los talleres se desarrollarán en Python 3.7+ usando la biblioteca [Tensorflow 2.0](https://www.tensorflow.org/), que adopta [Keras](https://www.tensorflow.org/versions/r2.0/api_docs/python/tf/keras) como interfaz de alto nivel para construir y entrenar redes neuronales.
